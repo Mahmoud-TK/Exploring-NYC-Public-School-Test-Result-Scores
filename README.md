@@ -5,3 +5,7 @@ The analysis focuses on evaluating test result scores of public schools in New Y
 overall SAT performance across different boroughs of NYC. The analysis utilizes Python's 
 pandas library for data manipulation and visualization libraries like seaborn and matplotlib 
 for graphical representation.
+
+# Contributors
+Mahmoud Tarek
+Hazem Samir
