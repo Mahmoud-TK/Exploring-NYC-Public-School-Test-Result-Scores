@@ -6,6 +6,7 @@ overall SAT performance across different boroughs of NYC. The analysis utilizes 
 pandas library for data manipulation and visualization libraries like seaborn and matplotlib 
 for graphical representation.
 
-# Contributors
-Mahmoud Tarek
-Hazem Samir
+## Contributors
+- [Mahmoud Tarek](https://github.com/Mahmoud-TK)
+- [Hazem Samir](https://github.com/HazemSamirm)
+
