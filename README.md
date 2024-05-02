@@ -8,5 +8,5 @@ for graphical representation.
 
 ## Contributors
 - [Mahmoud Tarek](https://github.com/Mahmoud-TK)
-- [Hazem Samir](https://github.com/HazemSamirM)
+- [Hazem Samir](https://github.com/HazemSmairM)
 
